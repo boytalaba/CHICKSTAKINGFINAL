@@ -1,0 +1,14 @@
+{
+  "CONTRACT_ADDRESS": "0x656D05dE57D8129bD09FD6B03F54b284F8870752",
+  "SCAN_LINK": "https://scout.ech.network/address/0x656D05dE57D8129bD09FD6B03F54b284F8870752",
+  "NETWORK": {
+    "NAME": "Echelon",
+    "SYMBOL": "ECH",
+    "ID": 3000
+  },
+  "TOKEN_NAME": "WORMS",
+  "SYMBOL": "WRMS"
+}
+
+
+
